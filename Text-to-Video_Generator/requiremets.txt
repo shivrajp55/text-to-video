@@ -1,6 +1,10 @@
-streamlit
-torch
-diffusers
-accelerate
-torch
-numpy
+diffusers @ git+https://github.com/huggingface/diffusers@30c977d1f5300bffdf14b92d06c90293e789b587
+huggingface-hub==0.22.1
+imageio==2.34.0
+matplot==0.1.9
+matplotlib==3.7.1
+matplotlib-inline==0.1.7
+numpy==1.24.2
+opencv-python-headless==4.9.0.80
+streamlit==1.33.0
+transformers==4.39.3
